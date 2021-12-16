@@ -2,7 +2,7 @@
   import Menu from "$lib/docs/menu.svelte";
   import MobileMenu from "$lib//docs/mobile-menu/index.svelte";
   import Search from "$lib/docs/search.svelte";
-  import "../src/assets/markdown-commons.scss";
+  import "../../src/assets/markdown-commons.scss";
   import { MENU } from "./menu";
 </script>
 
